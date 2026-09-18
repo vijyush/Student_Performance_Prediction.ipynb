@@ -96,9 +96,4 @@ Run the notebook cells sequentially to reproduce the data preparation, visualiza
 - Compare linear models with tree-based regression methods.
 - Package the preprocessing and model steps in a scikit-learn `Pipeline`.
 
-## Author
-
-**Burra Vijyusha**  
-B.Tech, Metallurgical Engineering and Materials Science  
-Indian Institute of Technology Indore
 
